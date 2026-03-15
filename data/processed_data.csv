@@ -1,0 +1,6 @@
+Facility,Equipment,Process,Material,Supplier,Average_Risk_Score
+Facility A,Pump 1,Reaction 1,Material X,Supplier 1,0.85
+Facility A,Pump 2,Reaction 2,Material Y,Supplier 2,0.55
+Facility B,Pump 3,Reaction 3,Material Z,Supplier 3,0.25
+Facility C,Pump 4,Reaction 4,Material X,Supplier 1,0.95
+Facility C,Pump 5,Reaction 5,Material Y,Supplier 2,0.15
