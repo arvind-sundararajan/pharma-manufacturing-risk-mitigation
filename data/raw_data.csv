@@ -1,0 +1,6 @@
+Facility,Equipment,Process,Material,Supplier,Risk_Score
+Facility A,Pump 1,Reaction 1,Material X,Supplier 1,0.8
+Facility A,Pump 2,Reaction 2,Material Y,Supplier 2,0.5
+Facility B,Pump 3,Reaction 3,Material Z,Supplier 3,0.2
+Facility C,Pump 4,Reaction 4,Material X,Supplier 1,0.9
+Facility C,Pump 5,Reaction 5,Material Y,Supplier 2,0.1
