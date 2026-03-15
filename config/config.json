@@ -1,0 +1,1 @@
+{"risk_threshold": 0.7, "supplier_rating": {"Supplier 1": 0.9, "Supplier 2": 0.8, "Supplier 3": 0.6}, "material_hazard": {"Material X": 0.5, "Material Y": 0.3, "Material Z": 0.1}}
